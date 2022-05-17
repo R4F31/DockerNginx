@@ -4,5 +4,5 @@
 
 Instalamos Nginx en docker con el siguiente comando:
 
-´ docker pull nginx ´
+` docker pull nginx `
 
